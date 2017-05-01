@@ -1,2 +1,2 @@
 # dotfiles
-Config files for vim, tmux, bash etc.
+Config files for vim, ctags, tmux, bash etc.
